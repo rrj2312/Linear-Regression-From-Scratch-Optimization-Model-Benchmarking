@@ -13,18 +13,18 @@ It also compares:
 
 ---
 
-## 🎯 Key Highlights
+## Key Highlights
 
-* 📉 Implemented Linear Regression from scratch
-* 📊 Visualized convergence using loss curves
-* ⚙️ Analyzed impact of learning rates
-* 🔍 Compared scaled vs unscaled data
-* ⚡ Benchmarked Gradient Descent vs Normal Equation
-* 🌲 Compared with Random Forest and XGBoost
+* Implemented Linear Regression from scratch
+* Visualized convergence using loss curves
+* Analyzed impact of learning rates
+* Compared scaled vs unscaled data
+* Benchmarked Gradient Descent vs Normal Equation
+* Compared with Random Forest and XGBoost
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * **Feature:** Years of Experience
 * **Target:** Salary
